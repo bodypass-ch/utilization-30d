@@ -1,19 +1,19 @@
 {
-  "carte": "35896",
-  "name": "Kiana",
+  "carte": "38194",
+  "name": "Céline",
   "last_visit": {
-    "etab_name": "SAKURA LAB",
-    "etab_slug": "sakura-lab",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+    "etab_name": "MAISON DU TEMPS",
+    "etab_slug": "maison-du-temps",
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+    "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
     "canton": "Genève",
-    "visites": 179,
-    "note": "4.5/5",
-    "blurb": "Sakura Lab, espace de douceur sur-mesure. Spécialistes diplômées et soins variés sous un même toit : chaque rendez-vous, une expérience unique.",
+    "visites": 48,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-08",
     "date_pretty": "le 8 août"
   },
-  "top_category": "Soins du Corps",
+  "top_category": "Soins Hommes",
   "top_canton": "Genève",
   "suggestions": [
     {
