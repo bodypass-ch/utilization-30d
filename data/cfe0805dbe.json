@@ -1,20 +1,21 @@
 {
-  "carte": "35173",
-  "name": "Sydne",
+  "carte": "38619",
+  "name": "Athalie",
   "last_visit": {
-    "etab_name": "Namasté",
-    "etab_slug": "namaste",
-    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-    "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
-    "canton": "Vaud",
-    "visites": 490,
-    "note": "4.5/5",
-    "blurb": "Namasté, fusion de Vanessa Veseli et Mélanie Rossi. Espace de détente et large choix de soins, le bien-être de deux passions réunies.",
+    "etab_name": "Les Cliniques Matignon",
+    "etab_slug": null,
+    "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+    "etab_url_public": null,
+    "category": null,
+    "canton": null,
+    "visites": null,
+    "note": null,
+    "blurb": null,
     "date_iso": "2026-08-10",
     "date_pretty": "le 10 août"
   },
-  "top_category": "Lausanne région",
-  "top_canton": "Vaud",
+  "top_category": "Soins Hommes",
+  "top_canton": " ",
   "suggestions": [
     {
       "etab_name": "1er Acte Coiffure",
